@@ -45,7 +45,6 @@ nums.forEach((num) => {
       uniqueNums.push(num)
    }
 }
-
 console.log(uniqueNums)
 ```
 
